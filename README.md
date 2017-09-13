@@ -1,0 +1,2 @@
+# checkAlluncheckall
+全选全不选以及监听取消全选或自动全选
