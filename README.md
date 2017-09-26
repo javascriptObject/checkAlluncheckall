@@ -2,7 +2,7 @@
 
 效果如下：
 ![](images/img.gif)
-465465465
+
 demo code:
 ```
 <!doctype html>
