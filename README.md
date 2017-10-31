@@ -3,7 +3,7 @@
 效果如下：
 ![](images/img.gif)
 
-demo code:fdfdsfds
+demo code:
 ```
 <!doctype html>
 <html lang="en">
